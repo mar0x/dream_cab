@@ -265,7 +265,7 @@
       (net 54 PL_OUT))
     (pad T2 thru_hole oval (at -20.2 -6.55 270) (size 1.8 2.4) (drill oval 1 1.6) (layers *.Cu *.Mask)
       (net 58 AUXL_IN))
-    (model ${KIPRJMOD}/lib/CK635-037.step
+    (model ${KIPRJMOD}/../lib/CK635-037.step
       (offset (xyz -10.75 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 -90))
@@ -317,7 +317,7 @@
       (net 56 G_IN))
     (pad T2 thru_hole oval (at -20.2 -6.55 270) (size 1.8 2.4) (drill oval 1 1.6) (layers *.Cu *.Mask)
       (net 56 G_IN))
-    (model ${KIPRJMOD}/lib/CK635-037.step
+    (model ${KIPRJMOD}/../lib/CK635-037.step
       (offset (xyz -10.75 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 -90))
@@ -2184,7 +2184,7 @@
       (net 16 "Net-(C101-Pad2)"))
     (pad 3 thru_hole circle (at 0 -5 270) (size 1.8 1.8) (drill 1) (layers *.Cu *.Mask)
       (net 3 GND))
-    (model ${KIPRJMOD}/lib/RK097-dual.step
+    (model ${KIPRJMOD}/../lib/RK097-dual.step
       (offset (xyz 5 2.5 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 -90))
@@ -2245,7 +2245,7 @@
       (net 31 "Net-(C206-Pad2)"))
     (pad 4 thru_hole circle (at -2.5 0 270) (size 1.8 1.8) (drill 1) (layers *.Cu *.Mask)
       (net 57 AUXR_IN))
-    (model ${KIPRJMOD}/lib/RK097-dual.step
+    (model ${KIPRJMOD}/../lib/RK097-dual.step
       (offset (xyz 5 2.5 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 -90))
@@ -2944,7 +2944,7 @@
       (net 50 "Net-(D2-Pad1)"))
     (pad "" thru_hole oval (at 2.2 16.5) (size 2.1 1.6) (drill oval 1.5 1) (layers *.Cu *.Mask))
     (pad "" thru_hole oval (at 7.2 16.5) (size 2.1 1.6) (drill oval 1.5 1) (layers *.Cu *.Mask))
-    (model ${KIPRJMOD}/lib/MTS-202-C3-DPDT.step
+    (model ${KIPRJMOD}/../lib/MTS-202-C3-DPDT.step
       (offset (xyz 4.7 -11.5 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
