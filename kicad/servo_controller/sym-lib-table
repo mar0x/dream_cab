@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name promicro)(type Legacy)(uri ${KIPRJMOD}/lib/promicro.lib)(options "")(descr ""))
+  (lib (name tda)(type Legacy)(uri ${KIPRJMOD}/lib/tda.lib)(options "")(descr ""))
+)

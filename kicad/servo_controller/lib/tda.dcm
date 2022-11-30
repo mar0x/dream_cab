@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP TDA2822
+D Class-AB Stereo Headphone Driver, SOIC-8/TSSOP-8
+K audio amplifier
+F https://www.nxp.com/docs/en/data-sheet/TDA1308.pdf
+$ENDCMP
+#
+#End Doc Library
